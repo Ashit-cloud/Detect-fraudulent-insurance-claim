@@ -1,1 +1,1 @@
-# Detect-fraudulent-insurance-claim
+# Detect fraudulent insurance claim
